@@ -5,3 +5,5 @@
 - [promiseAll.ts](./promiseAll.ts) : a method like Promise.all
 
 - [leetcode-30.ts](./leetcode-30.ts) : https://leetcode.cn/problems/substring-with-concatenation-of-all-words/
+
+- [leetcode-37.ts](./leetcode-37.ts) : https://leetcode.cn/problems/sudoku-solver/
